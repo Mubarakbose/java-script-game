@@ -119,7 +119,8 @@ let init = true;
 
   }
 
-   // Plays selected rounds depending on the choice of the user, i.e. 5 rounds = 5 iterations. Also displays result of each round.
+   /* Plays selected rounds depending on the choice of the user, i.e. 5 rounds = 5 iterations. 
+   Also displays result of each round.*/
    function playSelectedRounds() {
 
     for (let i = 1; i <= numRounds; i++) {
