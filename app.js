@@ -53,7 +53,7 @@ let init = true;
 
   }
 
-  // The three possible autocomes of players' choice
+  // The three possible autocomes of players' choice in the game
   function computerScissors(playerSelection, computerSelection, computerScore, playerScore) {
 
     if (computerSelection?.toLowerCase() === "scissors") {
